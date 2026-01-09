@@ -28,7 +28,7 @@ Aplikacja wymaga bazy danych MongoDB (port 27017). Możesz ją uruchomić za pom
     ```bash
     npm start
     ```
-Aplikacja będzie dostępna pod adresem `http://localhost:3000`.
+Aplikacja będzie dostępna pod adresem `http://localhost:8080`.
 
 ## Licencja
 MIT — patrz plik LICENSE.
