@@ -14,7 +14,7 @@ Aplikacja wymaga bazy danych MongoDB (port 27017). Możesz ją uruchomić za pom
 1.  Sklonuj repozytorium (jeśli jeszcze tego nie zrobiłeś):
     ```bash
     git clone https://github.com/Bejg/F111.git
-    cd ProjektBlog
+    cd F111
     ```
 2.  (Opcjonalnie) Uruchom bazę danych w dockerze:
     ```bash
