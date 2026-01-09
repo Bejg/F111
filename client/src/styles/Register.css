@@ -1,0 +1,77 @@
+.register-container {
+  padding: 2rem 0;
+  background-color: #FFFFFF;
+}
+
+.register-card {
+  background-color: #ffffff;
+  border: 1px solid #D4DDE2;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px rgba(212, 221, 226, 0.2);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.register-card h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #5C7E8F;
+}
+
+.register-form {
+  margin-top: 1rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #5C7E8F;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #D4DDE2;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: #FFFFFF;
+}
+
+.form-input:focus {
+  outline: 2px solid #5C7E8F;
+  border-color: #5C7E8F;
+}
+
+.buttons-container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.register-button {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: #5C7E8F;
+  color: #FFFFFF;
+  border: 1px solid #5C7E8F;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.register-button:hover {
+  background-color: #D4DDE2;
+  color: #5C7E8F;
+}
+
+.register-link-container {
+  margin-top: 1rem;
+  text-align: center;
+}

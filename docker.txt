@@ -1,0 +1,27 @@
+Instrukcja uruchomienia bazy danych za pomocą Docker Compose
+
+1. Uruchamianie
+
+Aby uruchomić MongoDB w kontenerze należy w root projektu (tam gdzie plik docker-compose.yml) wykonać komendę:
+
+docker-compose up -d
+
+2. Zatrzymanie
+
+Aby zatrzymać kontener należy wykonać komendę:
+
+docker-compose down
+
+3. Usuwanie
+
+Aby całkowicie usunać kontener i jego zapisaną pamięć należy wykonać komendę:
+
+docker-compose down -v
+
+4. Dane do połączenia z bazą danych
+
+- Host: localhost
+- Port: 27017
+- Dane logowania: 
+    login: admin
+    hasło: admin
