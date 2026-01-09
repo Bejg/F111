@@ -13,7 +13,7 @@ Aplikacja wymaga bazy danych MongoDB (port 27017). Możesz ją uruchomić za pom
 ### 2. Instalacja i uruchomienie aplikacji
 1.  Sklonuj repozytorium (jeśli jeszcze tego nie zrobiłeś):
     ```bash
-    git clone https://github.com/bejq/ProjektBlog.git
+    git clone https://github.com/Bejg/F111.git
     cd ProjektBlog
     ```
 2.  (Opcjonalnie) Uruchom bazę danych w dockerze:
